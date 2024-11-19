@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-16T11:46:38 IST" name="Suite" finished-at="2024-11-16T11:50:09 IST" duration-ms="210963">
+    <groups>
+    </groups>
+    <test started-at="2024-11-16T11:46:38 IST" name="Test" finished-at="2024-11-16T11:50:09 IST" duration-ms="210963">
+      <class name="test.SwagLabCartTest">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:48:58 IST" name="LaunchApplication" finished-at="2024-11-16T11:49:02 IST" duration-ms="4448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="VerfiyIfUserIsAbleToAddSingleProductToCart()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:02 IST" name="VerfiyIfUserIsAbleToAddSingleProductToCart" finished-at="2024-11-16T11:49:04 IST" duration-ms="2165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfiyIfUserIsAbleToAddSingleProductToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:04 IST" name="closeBrowser" finished-at="2024-11-16T11:49:05 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:05 IST" name="LaunchApplication" finished-at="2024-11-16T11:49:08 IST" duration-ms="3651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="VerifyIfUserIsAbleToRemoveProductFromCart()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:08 IST" name="VerifyIfUserIsAbleToRemoveProductFromCart" finished-at="2024-11-16T11:49:26 IST" duration-ms="17891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyIfUserIsAbleToRemoveProductFromCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:26 IST" name="closeBrowser" finished-at="2024-11-16T11:49:26 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:26 IST" name="LaunchApplication" finished-at="2024-11-16T11:49:31 IST" duration-ms="5026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="VerifyIsIfUserIsAbleToAddMultipleProductToCart()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:31 IST" name="VerifyIsIfUserIsAbleToAddMultipleProductToCart" finished-at="2024-11-16T11:49:39 IST" duration-ms="7858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyIsIfUserIsAbleToAddMultipleProductToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:39 IST" name="closeBrowser" finished-at="2024-11-16T11:49:39 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:39 IST" name="LaunchApplication" finished-at="2024-11-16T11:49:43 IST" duration-ms="3962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="VerifyOnClickingCartIconCartIsDisplyed()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:43 IST" name="VerifyOnClickingCartIconCartIsDisplyed" finished-at="2024-11-16T11:49:44 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOnClickingCartIconCartIsDisplyed -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:44 IST" name="closeBrowser" finished-at="2024-11-16T11:49:44 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:44 IST" name="LaunchApplication" finished-at="2024-11-16T11:49:47 IST" duration-ms="3681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="verifyIfUserAbleToAddProductToCart()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:47 IST" name="verifyIfUserAbleToAddProductToCart" finished-at="2024-11-16T11:49:56 IST" duration-ms="8424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfUserAbleToAddProductToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabCartTest@4082ba93]" started-at="2024-11-16T11:49:56 IST" name="closeBrowser" finished-at="2024-11-16T11:49:57 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.SwagLabCartTest -->
+      <class name="test.SwagLabHomePageTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:46:52 IST" name="launchApplication" finished-at="2024-11-16T11:46:59 IST" duration-ms="7145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VeriftOnClickingOnMenuAllTheMenuOptionsAreDisplayed()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:46:59 IST" name="VeriftOnClickingOnMenuAllTheMenuOptionsAreDisplayed" finished-at="2024-11-16T11:46:59 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VeriftOnClickingOnMenuAllTheMenuOptionsAreDisplayed -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:46:59 IST" name="closeBrowser" finished-at="2024-11-16T11:46:59 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:46:59 IST" name="launchApplication" finished-at="2024-11-16T11:47:04 IST" duration-ms="4863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifyOnClickAboutUserIsRedirectedToSwaglabExternalPage()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:47:04 IST" name="VerifyOnClickAboutUserIsRedirectedToSwaglabExternalPage" finished-at="2024-11-16T11:47:17 IST" duration-ms="12236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOnClickAboutUserIsRedirectedToSwaglabExternalPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:47:17 IST" name="closeBrowser" finished-at="2024-11-16T11:47:17 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:47:17 IST" name="launchApplication" finished-at="2024-11-16T11:47:26 IST" duration-ms="8884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifyOnClickingAddToCartButtonTheRemoveButtonIsDislayedInteadOfAddToCart()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:47:26 IST" name="VerifyOnClickingAddToCartButtonTheRemoveButtonIsDislayedInteadOfAddToCart" finished-at="2024-11-16T11:47:32 IST" duration-ms="6628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOnClickingAddToCartButtonTheRemoveButtonIsDislayedInteadOfAddToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:47:32 IST" name="closeBrowser" finished-at="2024-11-16T11:47:32 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:47:32 IST" name="launchApplication" finished-at="2024-11-16T11:47:39 IST" duration-ms="6401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifyOnClickingAllItemsMenuBarIsClosingAndAllProductsAreDisplayed()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:47:39 IST" name="VerifyOnClickingAllItemsMenuBarIsClosingAndAllProductsAreDisplayed" finished-at="2024-11-16T11:47:51 IST" duration-ms="12560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOnClickingAllItemsMenuBarIsClosingAndAllProductsAreDisplayed -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:47:51 IST" name="closeBrowser" finished-at="2024-11-16T11:47:52 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:47:52 IST" name="launchApplication" finished-at="2024-11-16T11:47:56 IST" duration-ms="4268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifyOnClickingLogoutUserIsSuccessfullyLoggedOutFromApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:47:56 IST" name="VerifyOnClickingLogoutUserIsSuccessfullyLoggedOutFromApplication" finished-at="2024-11-16T11:48:00 IST" duration-ms="3780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOnClickingLogoutUserIsSuccessfullyLoggedOutFromApplication -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:00 IST" name="closeBrowser" finished-at="2024-11-16T11:48:00 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:00 IST" name="launchApplication" finished-at="2024-11-16T11:48:08 IST" duration-ms="7602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifyOnClickingRemoveProductTheButtonIsAgainChangedToAddToCart()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:08 IST" name="VerifyOnClickingRemoveProductTheButtonIsAgainChangedToAddToCart" finished-at="2024-11-16T11:48:26 IST" duration-ms="18932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOnClickingRemoveProductTheButtonIsAgainChangedToAddToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:26 IST" name="closeBrowser" finished-at="2024-11-16T11:48:27 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:27 IST" name="launchApplication" finished-at="2024-11-16T11:48:31 IST" duration-ms="4126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifySortFeatureForAtoZ()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:31 IST" name="VerifySortFeatureForAtoZ" finished-at="2024-11-16T11:48:31 IST" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySortFeatureForAtoZ -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:31 IST" name="closeBrowser" finished-at="2024-11-16T11:48:32 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:32 IST" name="launchApplication" finished-at="2024-11-16T11:48:37 IST" duration-ms="5751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifySortFeatureForPriceHighToLow()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:37 IST" name="VerifySortFeatureForPriceHighToLow" finished-at="2024-11-16T11:48:38 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySortFeatureForPriceHighToLow -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:38 IST" name="closeBrowser" finished-at="2024-11-16T11:48:38 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:38 IST" name="launchApplication" finished-at="2024-11-16T11:48:46 IST" duration-ms="8221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifySortFeatureForPriceLowToHigh()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:46 IST" name="VerifySortFeatureForPriceLowToHigh" finished-at="2024-11-16T11:48:47 IST" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySortFeatureForPriceLowToHigh -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:47 IST" name="closeBrowser" finished-at="2024-11-16T11:48:47 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:47 IST" name="launchApplication" finished-at="2024-11-16T11:48:50 IST" duration-ms="3315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VerifySortFeatureForZtoA()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:50 IST" name="VerifySortFeatureForZtoA" finished-at="2024-11-16T11:48:51 IST" duration-ms="581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySortFeatureForZtoA -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:51 IST" name="closeBrowser" finished-at="2024-11-16T11:48:51 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:51 IST" name="launchApplication" finished-at="2024-11-16T11:48:57 IST" duration-ms="6416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="clickOnResetAppState()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:57 IST" name="clickOnResetAppState" finished-at="2024-11-16T11:48:58 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnResetAppState -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabHomePageTest@4a003cbe]" started-at="2024-11-16T11:48:58 IST" name="closeBrowser" finished-at="2024-11-16T11:48:58 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.SwagLabHomePageTest -->
+      <class name="test.SwagLabOrderProductTest">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.SwagLabOrderProductTest@17fc391b]" started-at="2024-11-16T11:49:57 IST" name="LaunchApplication" finished-at="2024-11-16T11:50:02 IST" duration-ms="5371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="verifyIfUserOrderProductSuccessfully()[pri:0, instance:test.SwagLabOrderProductTest@17fc391b]" started-at="2024-11-16T11:50:02 IST" name="verifyIfUserOrderProductSuccessfully" finished-at="2024-11-16T11:50:08 IST" duration-ms="6266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfUserOrderProductSuccessfully -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test.SwagLabOrderProductTest@17fc391b]" started-at="2024-11-16T11:50:08 IST" name="CloseBrowser" finished-at="2024-11-16T11:50:09 IST" duration-ms="1030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- test.SwagLabOrderProductTest -->
+      <class name="test.SwagLabLoginTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabLoginTest@35dab4eb]" started-at="2024-11-16T11:46:39 IST" name="launchApplication" finished-at="2024-11-16T11:46:42 IST" duration-ms="3335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyIfUserAbleToLoginWithValidCreadentials()[pri:0, instance:test.SwagLabLoginTest@35dab4eb]" started-at="2024-11-16T11:46:42 IST" name="verifyIfUserAbleToLoginWithValidCreadentials" finished-at="2024-11-16T11:46:46 IST" duration-ms="3482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfUserAbleToLoginWithValidCreadentials -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabLoginTest@35dab4eb]" started-at="2024-11-16T11:46:46 IST" name="launchApplication" finished-at="2024-11-16T11:46:51 IST" duration-ms="5623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyIfWarningMessageIsDisplyedForLockedUser()[pri:0, instance:test.SwagLabLoginTest@35dab4eb]" started-at="2024-11-16T11:46:51 IST" name="verifyIfWarningMessageIsDisplyedForLockedUser" finished-at="2024-11-16T11:46:52 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfWarningMessageIsDisplyedForLockedUser -->
+      </class> <!-- test.SwagLabLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
